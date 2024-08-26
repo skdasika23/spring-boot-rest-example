@@ -1,0 +1,12 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "spring.initializr.defaultJavaVersion": "8",
+    "spring.initializr.defaultLanguage": "Java",
+    "spring.initializr.defaultPackaging": "WAR",
+    "spring.initializr.defaultOpenProjectMethod": "Open",
+    "cSpell.words": [
+        "sdasika"
+    ],
+    "jdk.runConfig.cwd": "C:\\apache-tomcat-9.0.93"
+}

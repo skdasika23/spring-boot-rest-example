@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+  springbootrestexample:
+    image: springbootrestexample
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 8090:8090
+      - 8091:8091
